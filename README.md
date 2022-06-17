@@ -2,7 +2,7 @@
 This is the single respository containing every project I did throughout my Udemy course.
 Each uniquely named folder is it's own standalone project. Some of them are static websites.
 
-Those with javascript can be run by:
+Those apps using javascript can be run by:
 
 1) navigating to the directory in your command line.
 2) using 'npm install' to install necessary node modules.
